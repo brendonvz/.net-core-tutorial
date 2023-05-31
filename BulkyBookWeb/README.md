@@ -1,4 +1,4 @@
-# MVC CRUD App
+# MVC CRUD
 
 This app was built by following the tutorial from Bhrugen Patel from freeCodeCamp.org developing with ASP.NET Core
 
